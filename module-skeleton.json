@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sla-and-entitlements-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-sla-and-entitlements",
+  "presentation": "dart-desktop",
+  "package": "module_crm_sla_and_entitlements_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/sla-and-entitlements.md",
+  "presentationPlan": "projects/crm/features/sla-and-entitlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
